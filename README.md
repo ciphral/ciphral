@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- DARK THEME HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=200&section=header&text=ADHEXIO&fontSize=80&fontColor=c9d1d9&fontAlignY=35&desc=Full%20Stack%20%7C%20Scraping%20%7C%20Flutter%20%7C%20Desktop&descSize=20&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=200&section=header&text=vexral&fontSize=80&fontColor=c9d1d9&fontAlignY=35&desc=Full%20Stack%20%7C%20Scraping%20%7C%20Flutter%20%7C%20Desktop&descSize=20&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=60&lines=Empowering+businesses+with+cutting-edge+automation+%F0%9F%9A%80)](https://git.io/typing-svg)
